@@ -1,4 +1,4 @@
-# Number Guessing Game
+# Fun Project - Number Guessing Game
 
 This is a simple Python project where the user has to guess a randomly generated number between 1 and 100.
 
