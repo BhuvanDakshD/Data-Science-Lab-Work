@@ -23,3 +23,29 @@ This is a simple Python project where the user has to guess a randomly generated
 ## Author
 
 Bhuvan Daksh D
+
+
+
+
+---
+
+## Intermediate Project - Student Marks Analyzer
+
+This project analyzes student marks and performs basic data analysis.
+
+### Features
+
+* Takes marks input from user
+* Calculates total and average
+* Finds highest and lowest marks
+
+### Technologies Used
+
+* Python
+
+### How to Run
+
+1. Run the Python file
+2. Enter number of students
+3. Enter marks
+4. View analysis results
