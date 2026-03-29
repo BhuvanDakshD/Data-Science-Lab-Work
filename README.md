@@ -26,7 +26,6 @@ Bhuvan Daksh D
 
 
 
-
 ---
 
 ## Intermediate Project - Student Marks Analyzer
