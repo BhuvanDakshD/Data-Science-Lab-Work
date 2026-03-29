@@ -49,3 +49,7 @@ This project analyzes student marks and performs basic data analysis.
 2. Enter number of students
 3. Enter marks
 4. View analysis results
+
+## Author
+
+Bhuvan Daksh D
