@@ -1,53 +1,29 @@
-# Fun Project - Number Guessing Game
+# Data Science Lab Work
 
-This is a simple Python project where the user has to guess a randomly generated number between 1 and 100.
+## Lab Exercises
 
-## Features
+1. Introduction to Python
+2. Control Statements
+3. NumPy
+4. Pandas
+5. Regression Analysis
+6. KNN Classification
 
-* Random number generation
-* 7 chances to guess the number
-* Hints (Too high / Too low)
-* Win or lose message
+## Projects
+
+### Beginner Project: Number Guessing Game
+
+* Simple Python game using loops and conditions
+
+### Intermediate Project: Student Marks Analyzer
+
+* Performs basic data analysis (average, max, min)
 
 ## Technologies Used
 
 * Python
-
-## How to Run
-
-1. Open the Python file
-2. Run the program
-3. Enter your guess
-4. Try to find the correct number
-
-## Author
-
-Bhuvan Daksh D
-
-
-
----
-
-## Intermediate Project - Student Marks Analyzer
-
-This project analyzes student marks and performs basic data analysis.
-
-### Features
-
-* Takes marks input from user
-* Calculates total and average
-* Finds highest and lowest marks
-
-### Technologies Used
-
-* Python
-
-### How to Run
-
-1. Run the Python file
-2. Enter number of students
-3. Enter marks
-4. View analysis results
+* NumPy
+* Pandas
 
 ## Author
 
